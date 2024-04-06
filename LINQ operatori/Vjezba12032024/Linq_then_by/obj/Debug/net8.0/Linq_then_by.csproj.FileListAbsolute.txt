@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\bin\Debug\net8.0\Linq_then_by.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\bin\Debug\net8.0\Linq_then_by.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\bin\Debug\net8.0\Linq_then_by.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\bin\Debug\net8.0\Linq_then_by.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\bin\Debug\net8.0\Linq_then_by.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\refint\Linq_then_by.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\Linq_then_by.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_then_by\obj\Debug\net8.0\ref\Linq_then_by.dll

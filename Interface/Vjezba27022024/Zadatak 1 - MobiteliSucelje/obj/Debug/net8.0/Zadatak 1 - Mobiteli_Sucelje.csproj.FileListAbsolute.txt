@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\bin\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.exe
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\bin\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.deps.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\bin\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\bin\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\bin\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\refint\Zadatak 1 - Mobiteli_Sucelje.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\Zadatak 1 - Mobiteli_Sucelje.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\Zadatak 1 - MobiteliSucelje\obj\Debug\net8.0\ref\Zadatak 1 - Mobiteli_Sucelje.dll

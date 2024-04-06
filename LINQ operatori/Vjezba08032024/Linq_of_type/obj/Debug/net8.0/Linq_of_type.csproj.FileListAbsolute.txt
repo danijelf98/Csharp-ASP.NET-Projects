@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\bin\Debug\net8.0\Linq_of_type.exe
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\bin\Debug\net8.0\Linq_of_type.deps.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\bin\Debug\net8.0\Linq_of_type.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\bin\Debug\net8.0\Linq_of_type.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\bin\Debug\net8.0\Linq_of_type.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\refint\Linq_of_type.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\Linq_of_type.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_of_type\obj\Debug\net8.0\ref\Linq_of_type.dll

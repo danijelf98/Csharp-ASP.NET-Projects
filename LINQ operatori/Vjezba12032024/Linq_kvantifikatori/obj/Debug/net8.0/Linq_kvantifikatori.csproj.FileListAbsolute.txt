@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\bin\Debug\net8.0\Linq_kvantifikatori.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\bin\Debug\net8.0\Linq_kvantifikatori.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\bin\Debug\net8.0\Linq_kvantifikatori.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\bin\Debug\net8.0\Linq_kvantifikatori.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\bin\Debug\net8.0\Linq_kvantifikatori.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\refint\Linq_kvantifikatori.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\Linq_kvantifikatori.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_kvantifikatori\obj\Debug\net8.0\ref\Linq_kvantifikatori.dll

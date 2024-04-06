@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\bin\Debug\net8.0\Linq_Where.exe
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\bin\Debug\net8.0\Linq_Where.deps.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\bin\Debug\net8.0\Linq_Where.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\bin\Debug\net8.0\Linq_Where.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\bin\Debug\net8.0\Linq_Where.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\refint\Linq_Where.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\Linq_Where.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_Where\obj\Debug\net8.0\ref\Linq_Where.dll

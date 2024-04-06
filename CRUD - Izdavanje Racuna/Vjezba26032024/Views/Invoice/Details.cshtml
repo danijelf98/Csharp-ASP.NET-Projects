@@ -1,0 +1,106 @@
+﻿@model Vjezba26032024.Models.ViewModels.InvoiceViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+
+<div class="row">
+    <div class="col-6">
+        <h4>InvoiceViewModel</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.InvoiceNumber)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.InvoiceNumber)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.DateOfIssue)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.DateOfIssue)
+            </dd>
+        </dl>
+    </div>
+
+
+    <div class="col-6">
+        @Html.ActionLink("Add new Invoice Item", "CreateInvoiceItem", new { invoiceId = Model.Id })
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Total</th>
+                    <th scope="col">Delete</th>
+                    <th scope="col">Item Details</th>
+                    <th scope="col">Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model.InvoiceItems)
+                {
+                    <tr>
+                        <th scope="row">@item.Id</th>
+                        <td>@item.Title</td>
+                        <td>@item.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Total</td>
+                        <td>
+                            @Html.ActionLink("Delete", "DeleteInvoiceItem",
+                                     new { id = item.Id, invoiceId = Model.Id },
+                                     new { @class = "btn btn-danger" })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Item Details", "InvoiceItemDetails",
+                                     new { id = item.Id, invoiceId = Model.Id },
+                                     new { @class = "btn btn-info" })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "EditInvoiceItem",
+                                     new { id = item.Id, invoiceId = Model.Id },
+                                     new { @class = "btn btn-info" })
+                        </td>
+
+                        
+                    </tr>
+                }
+
+
+
+            </tbody>
+        </table>
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

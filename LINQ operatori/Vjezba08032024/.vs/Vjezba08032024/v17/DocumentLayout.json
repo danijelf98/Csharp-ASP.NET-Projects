@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\LINQ operatori\\Vjezba08032024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574E1B95-2457-4078-84D5-608F5765F4E2}|Linq_Where\\Linq_Where.csproj|c:\\users\\oxyhd\\downloads\\github projects\\linq operatori\\vjezba08032024\\linq_where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574E1B95-2457-4078-84D5-608F5765F4E2}|Linq_Where\\Linq_Where.csproj|solutionrelative:linq_where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33ECA7FE-DA40-42AC-8471-2AAD48BF79EB}|Linq_of_type\\Linq_of_type.csproj|c:\\users\\oxyhd\\downloads\\github projects\\linq operatori\\vjezba08032024\\linq_of_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33ECA7FE-DA40-42AC-8471-2AAD48BF79EB}|Linq_of_type\\Linq_of_type.csproj|solutionrelative:linq_of_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\LINQ operatori\\Vjezba08032024\\Linq_of_type\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_of_type\\Program.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\LINQ operatori\\Vjezba08032024\\Linq_of_type\\Program.cs",
+              "RelativeToolTip": "Linq_of_type\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:07:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\LINQ operatori\\Vjezba08032024\\Linq_Where\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Where\\Program.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\LINQ operatori\\Vjezba08032024\\Linq_Where\\Program.cs",
+              "RelativeToolTip": "Linq_Where\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:05:18.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\refint\Linq_Group_Join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\ref\Linq_Group_Join.dll
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.exe
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.deps.json
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.runtimeconfig.json
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.dll
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\bin\Debug\net8.0\Linq_Group_Join.pdb
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.AssemblyInfoInputs.cache
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.AssemblyInfo.cs
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.dll
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\refint\Linq_Group_Join.dll
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.pdb
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\Linq_Group_Join.genruntimeconfig.cache
+C:\Users\oxyhd\Downloads\GitHub projects\Vjezba12032024\Linq_Group_Join\obj\Debug\net8.0\ref\Linq_Group_Join.dll

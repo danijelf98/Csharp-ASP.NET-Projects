@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\bin\Debug\net8.0\Linq_OrderBy.exe
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\bin\Debug\net8.0\Linq_OrderBy.deps.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\bin\Debug\net8.0\Linq_OrderBy.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\bin\Debug\net8.0\Linq_OrderBy.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\bin\Debug\net8.0\Linq_OrderBy.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\refint\Linq_OrderBy.dll
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.pdb
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\Linq_OrderBy.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba08032024\Linq_OrderBy\obj\Debug\net8.0\ref\Linq_OrderBy.dll

@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\bin\Debug\net8.0\Linq_join.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\bin\Debug\net8.0\Linq_join.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\bin\Debug\net8.0\Linq_join.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\bin\Debug\net8.0\Linq_join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\bin\Debug\net8.0\Linq_join.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\refint\Linq_join.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\Linq_join.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_join\obj\Debug\net8.0\ref\Linq_join.dll

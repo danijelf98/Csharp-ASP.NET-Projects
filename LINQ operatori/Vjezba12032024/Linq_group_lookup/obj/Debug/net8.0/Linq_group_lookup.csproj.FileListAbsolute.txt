@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\bin\Debug\net8.0\Linq_group_lookup.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\bin\Debug\net8.0\Linq_group_lookup.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\bin\Debug\net8.0\Linq_group_lookup.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\bin\Debug\net8.0\Linq_group_lookup.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\bin\Debug\net8.0\Linq_group_lookup.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\refint\Linq_group_lookup.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\Linq_group_lookup.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_group_lookup\obj\Debug\net8.0\ref\Linq_group_lookup.dll

@@ -1,0 +1,48 @@
+﻿@using Vjezba26032024.Services.Interfaces;
+@using Vjezba26032024.Extensions;
+
+@model Vjezba26032024.Models.Binding.InvoiceBinding
+@inject IInvoiceService invoiceService
+
+
+@{
+
+    var nexDocumentId = invoiceService.GetNextInvoiceId();
+    var documentNumber = nexDocumentId.ToDocumentId();
+
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>InvoiceBinding</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InvoiceNumber" class="control-label"></label>
+                <input asp-for="InvoiceNumber" class="form-control" value="@documentNumber" readonly />
+                <span asp-validation-for="InvoiceNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateOfIssue" class="control-label"></label>
+                <input type="text" class="form-control" readonly value="@DateTime.Now.ToShortDateString()" name="DateOfIssue" />
+     @*            <input asp-for="DateOfIssue" class="form-control" value="@DateTime.Now.ToString("MM-dd-yyyy")" /> *@
+                <span asp-validation-for="DateOfIssue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

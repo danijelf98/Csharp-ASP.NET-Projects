@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\bin\Debug\net8.0\ExtensionMethodConsole.exe
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\bin\Debug\net8.0\ExtensionMethodConsole.deps.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\bin\Debug\net8.0\ExtensionMethodConsole.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\bin\Debug\net8.0\ExtensionMethodConsole.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\bin\Debug\net8.0\ExtensionMethodConsole.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\refint\ExtensionMethodConsole.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ExtensionMethodConsole.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodConsole\obj\Debug\net8.0\ref\ExtensionMethodConsole.dll

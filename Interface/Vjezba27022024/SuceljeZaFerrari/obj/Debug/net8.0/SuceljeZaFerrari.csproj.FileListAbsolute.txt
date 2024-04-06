@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\bin\Debug\net8.0\SuceljeZaFerrari.exe
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\bin\Debug\net8.0\SuceljeZaFerrari.deps.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\bin\Debug\net8.0\SuceljeZaFerrari.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\bin\Debug\net8.0\SuceljeZaFerrari.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\bin\Debug\net8.0\SuceljeZaFerrari.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\refint\SuceljeZaFerrari.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\SuceljeZaFerrari.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\SuceljeZaFerrari\obj\Debug\net8.0\ref\SuceljeZaFerrari.dll

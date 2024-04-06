@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|c:\\users\\oxyhd\\downloads\\github projects\\vjezba20032024\\vjezba2032024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|solutionrelative:vjezba2032024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|c:\\users\\oxyhd\\downloads\\github projects\\vjezba20032024\\vjezba2032024\\controllers\\polaznikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|solutionrelative:vjezba2032024\\controllers\\polaznikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|c:\\users\\oxyhd\\downloads\\github projects\\vjezba20032024\\vjezba2032024\\services\\implementations\\polaznikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|solutionrelative:vjezba2032024\\services\\implementations\\polaznikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|c:\\users\\oxyhd\\downloads\\github projects\\vjezba20032024\\vjezba2032024\\views\\polaznik\\uredipolaznika.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|solutionrelative:vjezba2032024\\views\\polaznik\\uredipolaznika.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|c:\\users\\oxyhd\\downloads\\github projects\\vjezba20032024\\vjezba2032024\\views\\polaznik\\polaznici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9889FEA9-E32A-4EBC-AB8A-A0F4ED38F457}|Vjezba2032024\\Vjezba2032024.csproj|solutionrelative:vjezba2032024\\views\\polaznik\\polaznici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Polaznici.cshtml",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Views\\Polaznik\\Polaznici.cshtml",
+              "RelativeDocumentMoniker": "Vjezba2032024\\Views\\Polaznik\\Polaznici.cshtml",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Views\\Polaznik\\Polaznici.cshtml",
+              "RelativeToolTip": "Vjezba2032024\\Views\\Polaznik\\Polaznici.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T17:10:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrediPolaznika.cshtml",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Views\\Polaznik\\UrediPolaznika.cshtml",
+              "RelativeDocumentMoniker": "Vjezba2032024\\Views\\Polaznik\\UrediPolaznika.cshtml",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Views\\Polaznik\\UrediPolaznika.cshtml",
+              "RelativeToolTip": "Vjezba2032024\\Views\\Polaznik\\UrediPolaznika.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T17:10:20.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolaznikService.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Services\\Implementations\\PolaznikService.cs",
+              "RelativeDocumentMoniker": "Vjezba2032024\\Services\\Implementations\\PolaznikService.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Services\\Implementations\\PolaznikService.cs",
+              "RelativeToolTip": "Vjezba2032024\\Services\\Implementations\\PolaznikService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:10:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolaznikController.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Controllers\\PolaznikController.cs",
+              "RelativeDocumentMoniker": "Vjezba2032024\\Controllers\\PolaznikController.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Controllers\\PolaznikController.cs",
+              "RelativeToolTip": "Vjezba2032024\\Controllers\\PolaznikController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:10:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Program.cs",
+              "RelativeDocumentMoniker": "Vjezba2032024\\Program.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\Downloads\\GitHub projects\\Vjezba20032024\\Vjezba2032024\\Program.cs",
+              "RelativeToolTip": "Vjezba2032024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:10:20.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

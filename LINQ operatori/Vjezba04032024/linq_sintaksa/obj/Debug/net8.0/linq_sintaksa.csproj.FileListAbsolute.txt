@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\bin\Debug\net8.0\linq_sintaksa.exe
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\bin\Debug\net8.0\linq_sintaksa.deps.json
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\bin\Debug\net8.0\linq_sintaksa.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\bin\Debug\net8.0\linq_sintaksa.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\bin\Debug\net8.0\linq_sintaksa.pdb
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\refint\linq_sintaksa.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.pdb
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\linq_sintaksa.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\linq_sintaksa\obj\Debug\net8.0\ref\linq_sintaksa.dll

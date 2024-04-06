@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\bin\Debug\net8.0\ExtensionMethodsPrimjer.exe
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\bin\Debug\net8.0\ExtensionMethodsPrimjer.deps.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\bin\Debug\net8.0\ExtensionMethodsPrimjer.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\bin\Debug\net8.0\ExtensionMethodsPrimjer.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\bin\Debug\net8.0\ExtensionMethodsPrimjer.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\refint\ExtensionMethodsPrimjer.dll
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.pdb
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ExtensionMethodsPrimjer.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba27022024\ExtensionMethodsPrimjer\obj\Debug\net8.0\ref\ExtensionMethodsPrimjer.dll

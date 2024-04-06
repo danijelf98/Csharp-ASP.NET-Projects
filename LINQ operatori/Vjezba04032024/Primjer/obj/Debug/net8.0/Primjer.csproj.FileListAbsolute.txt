@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\bin\Debug\net8.0\Primjer.exe
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\bin\Debug\net8.0\Primjer.deps.json
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\bin\Debug\net8.0\Primjer.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\bin\Debug\net8.0\Primjer.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\bin\Debug\net8.0\Primjer.pdb
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\refint\Primjer.dll
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.pdb
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\Primjer.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba04032024\Primjer\obj\Debug\net8.0\ref\Primjer.dll

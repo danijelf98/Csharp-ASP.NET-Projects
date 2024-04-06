@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\bin\Debug\net8.0\Zadatak1.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\bin\Debug\net8.0\Zadatak1.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\bin\Debug\net8.0\Zadatak1.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\bin\Debug\net8.0\Zadatak1.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\bin\Debug\net8.0\Zadatak1.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\refint\Zadatak1.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\Zadatak1.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Zadatak1\obj\Debug\net8.0\ref\Zadatak1.dll

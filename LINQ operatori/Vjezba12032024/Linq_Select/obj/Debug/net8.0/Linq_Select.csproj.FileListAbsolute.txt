@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\bin\Debug\net8.0\Linq_Select.exe
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\bin\Debug\net8.0\Linq_Select.deps.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\bin\Debug\net8.0\Linq_Select.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\bin\Debug\net8.0\Linq_Select.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\bin\Debug\net8.0\Linq_Select.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\refint\Linq_Select.dll
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.pdb
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\Linq_Select.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba12032024\Linq_Select\obj\Debug\net8.0\ref\Linq_Select.dll
