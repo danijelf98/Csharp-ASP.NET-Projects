@@ -1,0 +1,14 @@
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\bin\Debug\net8.0\Vjezba09042024.exe
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\bin\Debug\net8.0\Vjezba09042024.deps.json
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\bin\Debug\net8.0\Vjezba09042024.runtimeconfig.json
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\bin\Debug\net8.0\Vjezba09042024.dll
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\bin\Debug\net8.0\Vjezba09042024.pdb
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.AssemblyInfoInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.AssemblyInfo.cs
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.csproj.CoreCompileInputs.cache
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.dll
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\refint\Vjezba09042024.dll
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.pdb
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\Vjezba09042024.genruntimeconfig.cache
+C:\Users\oxyhd\source\repos\Vjezba09042024\Vjezba09042024\obj\Debug\net8.0\ref\Vjezba09042024.dll

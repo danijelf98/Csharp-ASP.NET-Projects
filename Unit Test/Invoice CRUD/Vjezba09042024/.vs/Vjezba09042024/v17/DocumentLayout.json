@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oxyhd\\source\\repos\\Vjezba09042024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF4469-5CF8-4A42-B724-1F387B76D3FA}|Vjezba09042024\\Vjezba09042024.csproj|c:\\users\\oxyhd\\source\\repos\\vjezba09042024\\vjezba09042024\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF4469-5CF8-4A42-B724-1F387B76D3FA}|Vjezba09042024\\Vjezba09042024.csproj|solutionrelative:vjezba09042024\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E46958-744C-4545-89AE-2AE6C445664A}|Vjezba09042024.UnitTest\\Vjezba09042024.UnitTest.csproj|c:\\users\\oxyhd\\source\\repos\\vjezba09042024\\vjezba09042024.unittest\\inoviceserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E46958-744C-4545-89AE-2AE6C445664A}|Vjezba09042024.UnitTest\\Vjezba09042024.UnitTest.csproj|solutionrelative:vjezba09042024.unittest\\inoviceserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InoviceServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\source\\repos\\Vjezba09042024\\Vjezba09042024.UnitTest\\InoviceServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "Vjezba09042024.UnitTest\\InoviceServiceUnitTest.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\source\\repos\\Vjezba09042024\\Vjezba09042024.UnitTest\\InoviceServiceUnitTest.cs",
+              "RelativeToolTip": "Vjezba09042024.UnitTest\\InoviceServiceUnitTest.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwFUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:13:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\source\\repos\\Vjezba09042024\\Vjezba09042024\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Vjezba09042024\\Service\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\source\\repos\\Vjezba09042024\\Vjezba09042024\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "Vjezba09042024\\Service\\InvoiceService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:09:13.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

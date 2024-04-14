@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51D55BB-E850-4923-8AAA-3A0D07626DAA}|Vjezba11042024.UnitTest\\Vjezba11042024.UnitTest.csproj|c:\\users\\oxyhd\\source\\repos\\vjezba11042024\\vjezba11042024.unittest\\voziloserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51D55BB-E850-4923-8AAA-3A0D07626DAA}|Vjezba11042024.UnitTest\\Vjezba11042024.UnitTest.csproj|solutionrelative:vjezba11042024.unittest\\voziloserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F90B4DE-6A2E-4BF2-B723-465CDF5B3931}|Vjezba11042024\\Vjezba11042024.csproj|c:\\users\\oxyhd\\source\\repos\\vjezba11042024\\vjezba11042024\\service\\implementations\\voziloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F90B4DE-6A2E-4BF2-B723-465CDF5B3931}|Vjezba11042024\\Vjezba11042024.csproj|solutionrelative:vjezba11042024\\service\\implementations\\voziloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F90B4DE-6A2E-4BF2-B723-465CDF5B3931}|Vjezba11042024\\Vjezba11042024.csproj|c:\\users\\oxyhd\\source\\repos\\vjezba11042024\\vjezba11042024\\service\\interface\\ivoziloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F90B4DE-6A2E-4BF2-B723-465CDF5B3931}|Vjezba11042024\\Vjezba11042024.csproj|solutionrelative:vjezba11042024\\service\\interface\\ivoziloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoziloServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024.UnitTest\\VoziloServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "Vjezba11042024.UnitTest\\VoziloServiceUnitTest.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024.UnitTest\\VoziloServiceUnitTest.cs",
+              "RelativeToolTip": "Vjezba11042024.UnitTest\\VoziloServiceUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:30:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVoziloService.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024\\Service\\Interface\\IVoziloService.cs",
+              "RelativeDocumentMoniker": "Vjezba11042024\\Service\\Interface\\IVoziloService.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024\\Service\\Interface\\IVoziloService.cs",
+              "RelativeToolTip": "Vjezba11042024\\Service\\Interface\\IVoziloService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:30:08.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoziloService.cs",
+              "DocumentMoniker": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024\\Service\\Implementations\\VoziloService.cs",
+              "RelativeDocumentMoniker": "Vjezba11042024\\Service\\Implementations\\VoziloService.cs",
+              "ToolTip": "C:\\Users\\oxyhd\\source\\repos\\Vjezba11042024\\Vjezba11042024\\Service\\Implementations\\VoziloService.cs",
+              "RelativeToolTip": "Vjezba11042024\\Service\\Implementations\\VoziloService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:27:22.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
